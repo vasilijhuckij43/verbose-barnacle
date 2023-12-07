@@ -1,0 +1,12 @@
+        case medium = 20
+        case high = 50
+    }
+                    
+}
+
+struct Previews_StrokeText_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+    }
+}
+
